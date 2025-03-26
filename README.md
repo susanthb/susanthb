@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanthb&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="susanthb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susanthb&show_icons=true&theme=dark&locale=en" alt="susanthb" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susanthb&label=Profile%20views&color=018de4&style=flat" alt="susanthb" /> </p>
+
 <!--
 **susanthb/susanthb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
